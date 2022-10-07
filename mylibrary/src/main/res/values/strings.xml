@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_no_network_connected_str">No Network Connection</string>
+    <string name="message_something_went_wrong_str">Oops! something went wrong</string>
+</resources>
